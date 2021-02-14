@@ -1,4 +1,4 @@
-<h2>Fjernstyring av port i hønsehus</h2>
+# Fjernstyring av port i hønsehus
 
 Fjernstyring av port i hønsehus
 Dette prosjektet består av en kontrollenhet som styrer en motor som åpner og lukker en port i et hønsehus.
